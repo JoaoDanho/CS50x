@@ -1,0 +1,19 @@
+Reflection
+This project was an excellent opportunity to deepen my understanding of SQL and relational databases. By working with the songs.db database, I learned how to write queries to extract meaningful information while considering efficient and readable SQL practices. Below, I outline key takeaways and their relevance:
+
+Using Aggregation Functions
+Aggregation functions like AVG helped me understand how databases can summarize data, enabling quick insights into metrics such as average energy or tempo. This feature highlights the power of SQL for analytical tasks, which is useful in many real-world applications.
+
+Joining Tables
+I strengthened my understanding of table relationships by writing queries that combine data from multiple tables. For instance, identifying songs by specific artists required understanding and implementing joins or subqueries, which reinforced the importance of database normalization.
+
+Filtering and Pattern Matching
+Queries like identifying songs featuring other artists demonstrated the flexibility of SQL's LIKE keyword. This practice showcased SQL’s ability to work with text data effectively, something I hadn’t explored in depth before this exercise.
+
+Data Ordering and Limitations
+Writing queries to find the top 5 longest songs or listing songs in order of tempo emphasized the importance of sorting and limiting results. These are foundational yet practical concepts for working with large datasets.
+
+Practical Applications in Spotify Wrapped
+This exercise gave me insights into how Spotify might use similar datasets to create their annual Wrapped feature. For example, calculating averages, finding popular artists, or identifying unique trends in music data could provide the personalized insights users love.
+
+Through this project, I also realized the importance of writing queries that are not just functional but optimized and easy to understand. Moving forward, I aim to focus on writing scalable SQL queries and exploring advanced topics like indexing and performance optimization.
