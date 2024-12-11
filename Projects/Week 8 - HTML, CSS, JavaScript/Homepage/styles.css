@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    margin-top: 20px;
+}
+h1 {
+    color: navy;
+}
+.navbar {
+    margin-bottom: 20px;
+}
+#alertButton {
+    margin-top: 10px;
+}
